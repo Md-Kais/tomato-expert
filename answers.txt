@@ -1,0 +1,13 @@
+# One answer per line: <y|n|?|number> <PrologTerm>
+# Anything not listed defaults to 0.0 (false) so nothing will be prompted.
+
+# Late blight-ish
+y symptom(watersoaked_large_blotch)
+y weather(cool_wet_week)
+y spread_fast
+y setting(field)
+
+# Physiological blossom-end rot
+y fruit(blossom_end_sunken_black)
+y moisture_fluctuation
+y calcium_issue

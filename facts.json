@@ -1,0 +1,10 @@
+{
+  "lang": "en",
+  "facts": [
+    {"functor": "symptom", "arg": "leaf_lesion_concentric", "cf": 1.0},
+    {"functor": "symptom", "arg": "lower_leaf_first", "cf": 1.0},
+    {"functor": "weather", "arg": "warm_humid_week", "cf": 1.0},
+    {"functor": "irrigation", "arg": "overhead", "cf": 0.8}
+  ],
+  "top_n": 3
+}
